@@ -1,4 +1,6 @@
-this notebook requires the following libreries to be installed:
+This notebook can be run as is on google colab.
+
+To run locally, the following libraries need to be installed:
 
 pandas
 numpy
